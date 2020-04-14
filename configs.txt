@@ -1,2 +1,2 @@
-mode=productionready_v2
+mode=productionready_v3
 branch=master
