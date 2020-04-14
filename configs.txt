@@ -1,2 +1,2 @@
-mode=testing
-branch=testing
+mode=productionready
+branch=master
